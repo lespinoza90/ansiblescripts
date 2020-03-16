@@ -2,4 +2,4 @@
   become: true
   apt:
     name: git
-    state: present
+    state: absent

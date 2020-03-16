@@ -1,2 +1,3 @@
 ---
 - include: installing-git.yml
+- include: installing-nginx.yml
