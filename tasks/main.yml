@@ -1,2 +1,2 @@
 ---
-# tasks file for git
+- include: installing-git.yml
